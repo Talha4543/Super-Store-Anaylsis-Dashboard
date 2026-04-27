@@ -98,8 +98,7 @@ The goal of this dashboard is to:
 📷 Dashboard Preview
 --------------------
 
-_(Add your dashboard screenshot here)_
-
+![Super Store Dashboard](images/super%20store%20abnayslsi.png)
 📈 Insights
 -----------
 
