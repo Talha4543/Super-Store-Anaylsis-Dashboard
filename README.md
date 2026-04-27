@@ -98,7 +98,7 @@ The goal of this dashboard is to:
 📷 Dashboard Preview
 --------------------
 
-![Super Store Dashboard](images/super%20store%20abnayslsi.png)
+![Super Store Dashboard](https://github.com/Talha4543/Super-Store-Anaylsis-Dashboard/blob/e8514d4065c8d66dbedec21d427606e1db818a92/Super%20Store%20Anaylsis.PNG)
 📈 Insights
 -----------
 
